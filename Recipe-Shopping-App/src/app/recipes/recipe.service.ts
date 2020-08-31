@@ -12,7 +12,7 @@ export class RecipeService {
     new Recipe(
       'A Test Recipe',
       'This is simply a test',
-      'https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/spaghetti-puttanesca_1.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pizza_capricciosa.jpg/1280px-Pizza_capricciosa.jpg',
       [
         new Ingredient('Meat', 1),
         new Ingredient('French Fries', 20)
@@ -20,7 +20,7 @@ export class RecipeService {
     new Recipe(
       '2. A Test Recipe',
       '2. This is simply a test',
-      'https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/spaghetti-puttanesca_1.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/3/3d/Roesti.jpg',
       [
         new Ingredient('Buns', 2),
         new Ingredient('Meat', 1)
